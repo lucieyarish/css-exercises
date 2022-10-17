@@ -1,0 +1,19 @@
+.odd-numbered {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #FA8072;
+}
+
+#blue-text {
+    font-size: 36px;
+    color: #2828ee;
+}
+
+.odd-numbered-big {
+    font-size: 24px;
+}
+
+#even-numbered {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90EE90;
+}
